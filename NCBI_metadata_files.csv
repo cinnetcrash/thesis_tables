@@ -1,0 +1,116 @@
+organism_taxId,Organism,bioproject_accession,location,accession,host,owner
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJEB7580,United Kingdom,GCF_000953495.1,chicken,EBI
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1090139,USA,GCF_038020335.1,not applicable,Auburn University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJEB36784,Germany,GCF_903970825.1,Broiler,EBI
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA263986,Hungary,GCF_000812575.1,Gallus gallus,NARIC ABC
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA433689,USA,GCF_003117615.1,Equus ferus caballus,Keri Norman's shared submissions
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA433689,USA,GCF_003117335.1,Equus ferus caballus,Keri Norman's shared submissions
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA300526,Israel,GCF_001518495.1,,Sheba Medical Center
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA186035,Chile,GCF_000807005.2,Homo sapiens,FDA Center for Food Safety and Applied Nutrition
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA203445,Nigeria,GCF_002064905.1,Homo sapiens,University of California at Davis 100K Pathogen Genome Project
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA203445,Denmark,GCF_002064895.1,Gallus gallus,University of California at Davis 100K Pathogen Genome Project
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA378379,Switzerland,GCF_002200635.1,missing,FDA Center for Food Safety and Applied Nutrition
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA203445,USA,GCF_002059795.1,Homo sapiens,University of California at Davis 100K Pathogen Genome Project
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA242614,USA,GCF_001478785.1,,FDA
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA433689,USA,GCF_003117775.1,Equus ferus caballus,Keri Norman's shared submissions
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA803004,Slovenia,GCF_022117515.1,Gallus gallus domesticus,Veterinary Faculty
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA203445,USA,GCF_002059515.1,Homo sapiens,University of California at Davis 100K Pathogen Genome Project
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA814220,Brazil,GCF_023024545.1,Homo sapiens,Instituto Adolfo Lutz
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA521806,Peru,GCF_012223825.1,Homo sapiens,Centro de Ciencias Genomicas - UNAM
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA378379,Switzerland,GCF_002198745.1,Homo sapiens,FDA Center for Food Safety and Applied Nutrition
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA378379,Switzerland,GCF_002200515.1,missing,FDA Center for Food Safety and Applied Nutrition
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA478278,Taiwan,GCF_030435995.1,Homo sapiens,"Centers for Disease Control, Taiwan"
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA242614,USA,GCF_001242185.1,,FDA
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA242614,USA,GCF_001242165.1,,FDA
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA242614,USA,GCF_001242545.1,,FDA
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA242614,USA,GCF_001241325.1,,FDA
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA433689,USA,GCF_003077795.1,Equus ferus caballus,Keri Norman's shared submissions
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA630575,Iraq,GCF_017693045.1,Gallus gallus,Murdoch University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA874214,Austria,GCF_024917215.1,chicken,Institute of Microbiology
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA531294,Vietnam,GCF_013377335.1,,Nanyang Technological University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA531294,Vietnam,GCF_013377355.1,,Nanyang Technological University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA803004,Slovenia,GCF_022117685.1,Gallus gallus domesticus,Veterinary Faculty
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA868865,China,GCF_025629175.1,,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA604692,Serbia,GCF_013368135.1,,Institute for Molecular Genetics and Genetic Engineering
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA604691,Serbia,GCF_013368155.1,,Institute for Molecular Genetics and Genetic Engineering
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA604697,Serbia,GCF_013368145.1,,Institute for Molecular Genetics and Genetic Engineering
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA604699,Serbia,GCF_013368165.1,,Institute for Molecular Genetics and Genetic Engineering
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA478278,Taiwan,GCF_022670675.1,Homo sapiens,"Centers for Disease Control, Taiwan"
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA505356,Australia,GCF_007993325.1,cattle,CSIRO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA505356,Australia,GCF_007993285.1,chicken,CSIRO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJEB49327,South Africa,GCF_922393915.1,Homo sapiens,European Bioinformatics Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA601150,Israel,GCF_010919335.1,Homo sapiens,Sheba medical center
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJEB49327,South Africa,GCF_922393895.1,Homo sapiens,European Bioinformatics Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA507471,USA,GCF_006381605.2,,Water Quality and Environmental Biotechnology Lab
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA186035,USA,GCF_002863785.1,,FDA Center for Food Safety and Applied Nutrition
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA512102,Peru,GCF_009916305.1,Homo sapiens,Instituto Nacional de Salud
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA516992,Peru,GCF_012271965.1,Homo sapiens,Instituto Nacional de Salud
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517004,Peru,GCF_012271975.1,Homo sapiens,INS
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA432303,Cameroon,GCF_004744915.1,Bovine,International Livestock Research Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517012,Peru,GCF_012272245.1,Homo sapiens,Instituto Nacional de Salud
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517019,Peru,GCF_012272315.1,Homo sapiens,Instituto Nacional de Salud
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517039,Peru,GCF_012272345.1,Homo sapiens,INS
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517040,Peru,GCF_012272375.1,Homo sapiens,INS
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA527724,Brazil,GCF_010119595.1,swine,Sao Paulo State University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517048,Peru,GCF_012272055.1,Homo sapiens,Instituto Nacional de Salud - Peru
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA380335,Peru,GCF_002119135.1,Homo sapiens,Centro Nacional de Biotecnologia (CNB)-CSIC
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA521806,Peru,GCF_012223285.1,Homo sapiens,Centro de Ciencias Genomicas - UNAM
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517061,Peru,GCF_012272035.1,Homo sapiens,INS - Peru
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517063,Peru,GCF_012272605.1,Homo sapiens,INS - Peru
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA521806,Bolivia,GCF_012223625.1,Homo sapiens,Centro de Ciencias Genomicas - UNAM
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517068,Peru,GCF_012272595.1,Homo sapiens,Instituto Nacional de Salud - Peru
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA269675,Russia,GCF_046157945.1,Poultry,SRCAMB
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA269675,Russia,GCF_046159085.1,Poultry,SRCAMB
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA517054,Peru,GCF_012272535.1,Homo sapiens,Instituto Nacional de Salud - Lima
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA543342,Turkey,GCF_005886015.1,,Ankara University Faculty of Veterinary Medicine
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA506312,China,GCF_003849815.1,,Sichuan University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA547553,Russia,GCF_008361015.1,,Rosselkhoznadzor The Russian State Center for Animal Feed and Drug Standardization and Quality (FGBU VGNKI)
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA547553,Russia,GCF_008361005.1,,Rosselkhoznadzor The Russian State Center for Animal Feed and Drug Standardization and Quality (FGBU VGNKI)
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA681176,Chile,GCF_016520205.1,not collected,UNIVERSIDAD ANDRES BELLO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA681176,Chile,GCF_016519235.1,not collected,UNIVERSIDAD ANDRES BELLO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA549805,Australia,GCF_008363005.1,,Murdoch University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA549805,Australia,GCF_008362875.1,,Murdoch University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA549805,Australia,GCF_008362965.1,,Murdoch University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA549805,Australia,GCF_008362995.1,,Murdoch University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA681176,Chile,GCF_016520635.1,not collected,UNIVERSIDAD ANDRES BELLO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA822892,Chile,GCF_022867765.1,,Instituto Ramon y Cajal de Investigacion Sanitaria
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA822892,Chile,GCF_022867665.1,,Instituto Ramon y Cajal de Investigacion Sanitaria
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA822892,Chile,GCF_022867745.1,,Instituto Ramon y Cajal de Investigacion Sanitaria
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA269675,Russia,GCF_046158545.1,Poultry,SRCAMB
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA681176,Chile,GCF_016519745.1,not collected,UNIVERSIDAD ANDRES BELLO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1080051,USA,GCF_041361515.1,,University of Maryland Eastern Shore
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1080051,USA,GCF_041361535.1,,University of Maryland Eastern Shore
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1080051,USA,GCF_041361555.1,,University of Maryland Eastern Shore
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA681176,Chile,GCF_016624305.1,not collected,UNIVERSIDAD ANDRES BELLO
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045808885.1,animal,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045808905.1,animal,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045809045.1,,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045809065.1,,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045808925.1,animal,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045809085.1,,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1187291,China,GCF_045809165.1,,Yangzhou University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA999707,Brazil,GCF_041730975.1,Equus caballus,Faculdade de Medicina Veterinaria e Zootecnia de Botucatu
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA999707,Brazil,GCF_041730825.1,Equus caballus,Faculdade de Medicina Veterinaria e Zootecnia de Botucatu
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA999707,Brazil,GCF_041731195.1,Equus caballus,Faculdade de Medicina Veterinaria e Zootecnia de Botucatu
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA999707,Brazil,GCF_041730905.1,Equus caballus,Faculdade de Medicina Veterinaria e Zootecnia de Botucatu
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA933104,Vietnam,GCF_036958645.1,,Saint-Petersburg Pasteur Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA933104,Vietnam,GCF_036958665.1,,Saint-Petersburg Pasteur Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA933104,Vietnam,GCF_036958745.1,,Saint-Petersburg Pasteur Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1110245,Saudi Arabia,GCF_039733085.1,,National Livestock&Fisheries Development Program
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1110245,Saudi Arabia,GCF_039749115.1,,National Livestock&Fisheries Development Program
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1110245,Saudi Arabia,GCF_039733165.1,,National Livestock&Fisheries Development Program
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037795395.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037798445.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037797495.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA999640,China,GCF_032308015.1,Homo sapiens,The First Affiliated Hospital of Shandong First Medical University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1117336,South Korea,GCF_040050635.1,,Inje University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037774005.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037772145.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037771175.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1167696,Kenya,GCF_043108015.1,Homo sapiens,Kenya Medical Research Institute
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1087122,South Korea,GCF_037770365.1,Homo sapiens,Jeonbuk National University
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1125001,Turkey,GCF_040279285.1,Broiler,Hatay Mustafa Kemal University Faculty of Veterinary Medicine
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1125001,Turkey,GCF_040279135.1,Broiler,Hatay Mustafa Kemal University Faculty of Veterinary Medicine
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1125001,Turkey,GCF_040279375.1,Broiler,Hatay Mustafa Kemal University Faculty of Veterinary Medicine
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA1125001,Turkey,GCF_040279165.1,Broiler,Hatay Mustafa Kemal University Faculty of Veterinary Medicine
+595,Salmonella enterica subsp. enterica serovar Infantis,PRJNA269675,Russia,GCF_046157495.1,Poultry,SRCAMB
